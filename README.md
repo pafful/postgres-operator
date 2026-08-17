@@ -29,3 +29,4 @@ For information regarding the software versions of the components included and K
 The examples provided in this project repository are available subject to the [Apache 2.0](https://github.com/CrunchyData/postgres-operator-examples/blob/-/LICENSE.md) license with the PGO logo and branding assets covered by our [trademark guidelines](https://github.com/CrunchyData/postgres-operator/blob/-/docs/static/logos/TRADEMARKS.md).
 
 The examples as provided in this repo are designed for the use of PGO along with Crunchy Data's Postgres distribution, Crunchy Postgres, as Crunchy Postgres for Kubernetes. The unmodified use of these examples will result in downloading container images from Crunchy Data repositories - specifically the Crunchy Data Developer Portal. The use of container images downloaded from the Crunchy Data Developer Portal are subject to the [Crunchy Data Developer Program terms](https://www.crunchydata.com/developers/terms-of-use).
+# postgres-operator
